@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b350bf4b106401643932c43cafb17180, type: 3}
+  m_Name: IncreaseLevelSettings
+  m_EditorClassIdentifier: 
+  _valueToIncreaseLevel: 5
+  _levelToIncreaseSpeed: 2
+  _levelToDecreaseSpawnTimer: 3
+  _levelToAddNewMonsterType: 5
+  _levelToIncreaseHealthPoint: 17
+  _ValueOfIncreaseSpeed: 0.002
+  _timeOfDecreaseSpawnTimer: 0.5
+  _valueOfIncreaseHealthPoint: 2
